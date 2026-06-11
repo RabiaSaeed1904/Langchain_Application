@@ -1,11 +1,11 @@
-
-readme_content = """## #Agentic-Research-Assistant
+# Create the README.md content
+readme_content = """# Agentic-Research-Assistant
 
 An intelligent, agentic research assistant built with **LangChain 0.3+**, designed to perform complex reasoning, real-time web information retrieval, and persistent data management. This project demonstrates an advanced transition from simple conversational chains to **ReAct agents** capable of using external tools to solve multi-step problems.
 
 ---
 
-##  Key Architectural Highlights
+## 🚀 Key Architectural Highlights
 * **Agentic Reasoning**: Implements the **ReAct (Reasoning + Acting)** framework, allowing the agent to "think" before taking actions and self-correct based on real-time observations.
 * **Intelligent Tooling**: Integrated **Google Search (SerpAPI)**, **Wikipedia**, and **Python REPL** for real-time information gathering and autonomous code execution.
 * **Multi-Layered Memory**:
@@ -15,7 +15,7 @@ An intelligent, agentic research assistant built with **LangChain 0.3+**, design
 
 ---
 
-## System Performance & Results
+##  System Performance & Results
 
 ![Multi-Step Agent Reasoning](Multi_Step_Anonymous_Agent.jpg)
 *The agent demonstrates multi-step reasoning by decomposing complex queries into logical tool-use actions, following the "Thought-Action-Observation" loop.*
@@ -28,7 +28,7 @@ An intelligent, agentic research assistant built with **LangChain 0.3+**, design
 
 ---
 
-## Tech Stack
+##  Tech Stack
 | Component | Technology |
 |-----------|------------|
 | **LLM** | Google Gemini 1.5 Pro |
@@ -39,7 +39,7 @@ An intelligent, agentic research assistant built with **LangChain 0.3+**, design
 
 ---
 
-## ⚙️ Setup & Reproduction
+##  Setup & Reproduction
 1. **Clone the repository**: `git clone <your-repo-url>`
 2. **Install requirements**: 
    ```bash
