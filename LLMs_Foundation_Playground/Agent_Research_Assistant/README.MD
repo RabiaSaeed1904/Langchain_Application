@@ -1,5 +1,5 @@
 
-readme_content = """# Agentic-Research-Assistant
+readme_content = """## #Agentic-Research-Assistant
 
 An intelligent, agentic research assistant built with **LangChain 0.3+**, designed to perform complex reasoning, real-time web information retrieval, and persistent data management. This project demonstrates an advanced transition from simple conversational chains to **ReAct agents** capable of using external tools to solve multi-step problems.
 
